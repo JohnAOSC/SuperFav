@@ -241,6 +241,7 @@
 
 ## others 
 
+- [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - PoC to record audio from a Bluetooth device
 - [fossasia/badgemagic.fossasia.org](https://github.com/fossasia/badgemagic.fossasia.org) - Badge Magic Documentation https://badgemagic.fossasia.org
 - [Vozec/CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) - This repository presents a proof-of-concept of CVE-2023-7028
 - [FOSDEM/website](https://github.com/FOSDEM/website) - FOSDEM website
