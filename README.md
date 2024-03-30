@@ -99,6 +99,7 @@
 
 ## Python 
 
+- [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - PoC to record audio from a Bluetooth device
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
