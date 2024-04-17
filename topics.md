@@ -9,6 +9,7 @@
 - [android](#android)
 - [angular](#angular)
 - [ansible](#ansible)
+- [api](#api)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -23,12 +24,14 @@
 - [education](#education)
 - [electron](#electron)
 - [github-config](#github-config)
+- [golang](#golang)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
 - [kubernetes](#kubernetes)
+- [laravel](#laravel)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -83,6 +86,10 @@
 ## ansible 
 
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
+
+## api 
+
+- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - Mirror of vikunja from https://code.vikunja.io/api
 
 ## automation 
 
@@ -145,12 +152,17 @@
 
 - [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps) - Config files for my GitHub profile.
 
+## golang 
+
+- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - Mirror of vikunja from https://code.vikunja.io/api
+
 ## hacking 
 
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 
 ## hacktoberfest 
 
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 - [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
@@ -183,6 +195,10 @@
 ## kubernetes 
 
 - [haxsaw/hikaru](https://github.com/haxsaw/hikaru) - Move smoothly between Kubernetes YAML and Python for creating/updating/componentizing configurations.
+
+## laravel 
+
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 
 ## learning 
 
@@ -241,6 +257,7 @@
 
 ## others 
 
+- [go-vikunja/app](https://github.com/go-vikunja/app) - 
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [joplin/plugin-kanban](https://github.com/joplin/plugin-kanban) - It allows notes in a notebook to be organized in a kanban board.
 - [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - PoC to record audio from a Bluetooth device
@@ -286,6 +303,7 @@
 
 ## php 
 
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 
@@ -344,6 +362,7 @@
 
 ## self-hosted 
 
+- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - Mirror of vikunja from https://code.vikunja.io/api
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 - [ad-aures/castopod](https://github.com/ad-aures/castopod) - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod
