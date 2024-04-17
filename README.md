@@ -10,6 +10,7 @@
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
+- [Dart](#dart)
 - [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
@@ -49,8 +50,13 @@
 
 - [AngelCrawford/joplin-theme](https://github.com/AngelCrawford/joplin-theme) - My private style for Joplin. It's build on top of the integrated "Dark" Theme included in Joplin. Inclusive a special Bullet Journal CSS style.
 
+## Dart 
+
+- [go-vikunja/app](https://github.com/go-vikunja/app) - 
+
 ## Go 
 
+- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - Mirror of vikunja from https://code.vikunja.io/api
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 
@@ -90,6 +96,7 @@
 
 ## PHP 
 
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [ad-aures/castopod](https://github.com/ad-aures/castopod) - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [FreshRSS/Extensions](https://github.com/FreshRSS/Extensions) - A repository containing all the official FreshRSS extensions
