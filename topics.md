@@ -257,6 +257,7 @@
 
 ## others 
 
+- [flusio/Flus](https://github.com/flusio/Flus) - Aggregate, save and share links from all over the Web.
 - [go-vikunja/app](https://github.com/go-vikunja/app) - 
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [joplin/plugin-kanban](https://github.com/joplin/plugin-kanban) - It allows notes in a notebook to be organized in a kanban board.
