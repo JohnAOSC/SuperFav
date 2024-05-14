@@ -318,7 +318,7 @@
 
 ## pixel-art 
 
-- [pabletos/pizzoo](https://github.com/pabletos/pizzoo) - Pizzoo is a easy-to-use library for rendering on pixel matrix screens like the Pixoo64, featuring easy new device integration, animation tools, and XML template rendering support
+- [pabletos/pizzoo](https://github.com/pabletos/pizzoo) - Pizzoo is an easy-to-use library for rendering on pixel matrix screens like the Pixoo64, featuring easy new device integration, animation tools, and XML template rendering support
 
 ## postgresql 
 
@@ -354,7 +354,7 @@
 
 ## raspberry-pi 
 
-- [pabletos/pizzoo](https://github.com/pabletos/pizzoo) - Pizzoo is a easy-to-use library for rendering on pixel matrix screens like the Pixoo64, featuring easy new device integration, animation tools, and XML template rendering support
+- [pabletos/pizzoo](https://github.com/pabletos/pizzoo) - Pizzoo is an easy-to-use library for rendering on pixel matrix screens like the Pixoo64, featuring easy new device integration, animation tools, and XML template rendering support
 - [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 
