@@ -13,6 +13,7 @@
 - [Dart](#dart)
 - [Go](#go)
 - [HTML](#html)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Markdown](#markdown)
@@ -63,6 +64,10 @@
 ## HTML 
 
 - [aileftech/snap-admin](https://github.com/aileftech/snap-admin) - A plug-and-play, auto-generated CRUD database admin panel for Spring Boot apps
+
+## Java 
+
+- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 
 ## JavaScript 
 
