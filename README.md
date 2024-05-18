@@ -63,6 +63,7 @@
 
 ## HTML 
 
+- [Osama-Yusuf/jellyfin-uploader](https://github.com/Osama-Yusuf/jellyfin-uploader) - A simple, easy-to-use and self-hosted jellyfin media uploader straight to your jellyfin volume folders.
 - [aileftech/snap-admin](https://github.com/aileftech/snap-admin) - A plug-and-play, auto-generated CRUD database admin panel for Spring Boot apps
 
 ## Java 
