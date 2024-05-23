@@ -57,6 +57,7 @@
 
 ## Go 
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - Mirror of vikunja from https://code.vikunja.io/api
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -90,6 +91,7 @@
 
 ## Others 
 
+- [ossf/wg-vulnerability-disclosures](https://github.com/ossf/wg-vulnerability-disclosures) - The OpenSSF Vulnerability Disclosures Working Group seeks to help improve the overall security of the open source software ecosystem by helping mature and advocate well-managed vulnerability reporting
 - [fossasia/badgemagic.fossasia.org](https://github.com/fossasia/badgemagic.fossasia.org) - Badge Magic Documentation https://badgemagic.fossasia.org
 - [WinkoErades/Joplin-note-taking-templates](https://github.com/WinkoErades/Joplin-note-taking-templates) - Joplin note taking templates
 - [garrett/Tux](https://github.com/garrett/Tux) - Tux, the Linux penguin
@@ -115,12 +117,13 @@
 
 ## Python 
 
+- [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [pabletos/pizzoo](https://github.com/pabletos/pizzoo) - Pizzoo is an easy-to-use library for rendering on pixel matrix screens like the Pixoo64, featuring easy new device integration, animation tools, and XML template rendering support
 - [4ch1m/pixoo-rest](https://github.com/4ch1m/pixoo-rest) - A RESTful API to easily interact with the Wi-Fi enabled Divoom Pixoo devices.
 - [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - PoC to record audio from a Bluetooth device
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [Vozec/CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) - This repository presents a proof-of-concept of CVE-2023-7028
 - [maekind/tux-avatar-project](https://github.com/maekind/tux-avatar-project) - This is the project repository to keep tux images
 - [Alb-310/Geogramint](https://github.com/Alb-310/Geogramint) - An OSINT Geolocalization tool for Telegram that find nearby users and groups 📡🌍🔍
