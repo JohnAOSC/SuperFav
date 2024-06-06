@@ -25,6 +25,7 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+- [Vim Script](#vim-script)
 
 ## Batchfile 
 
@@ -172,6 +173,10 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [skymethod/op3](https://github.com/skymethod/op3) - OP3: The Open Podcast Prefix Project
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
+
+## Vim Script 
+
+- [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 
 
 ## License
