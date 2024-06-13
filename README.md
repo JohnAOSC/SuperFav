@@ -169,6 +169,7 @@
 
 ## TypeScript 
 
+- [joplin/plugin-templates](https://github.com/joplin/plugin-templates) - Create templates in Joplin and use them to create new notes and todos.
 - [joplin/plugin-kanban](https://github.com/joplin/plugin-kanban) - It allows notes in a notebook to be organized in a kanban board.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [skymethod/op3](https://github.com/skymethod/op3) - OP3: The Open Podcast Prefix Project
