@@ -37,7 +37,6 @@
 - [linux](#linux)
 - [macos](#macos)
 - [markdown](#markdown)
-- [mysql](#mysql)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
 - [operating-system](#operating-system)
@@ -47,7 +46,6 @@
 - [penetration-testing](#penetration-testing)
 - [php](#php)
 - [pixel-art](#pixel-art)
-- [postgresql](#postgresql)
 - [privacy](#privacy)
 - [python](#python)
 - [python3](#python3)
@@ -243,10 +241,6 @@
 
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 
-## mysql 
-
-- [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
-
 ## nodejs 
 
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
@@ -334,10 +328,6 @@
 ## pixel-art 
 
 - [pabletos/pizzoo](https://github.com/pabletos/pizzoo) - Pizzoo is an easy-to-use library for rendering on pixel matrix screens like the Pixoo64, featuring easy new device integration, animation tools, and XML template rendering support
-
-## postgresql 
-
-- [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
 
 ## privacy 
 
