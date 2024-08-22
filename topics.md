@@ -13,6 +13,7 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [c-plus-plus](#c-plus-plus)
 - [cli](#cli)
 - [config](#config)
 - [cpp](#cpp)
@@ -112,6 +113,10 @@
 
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+
+## c-plus-plus 
+
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 
 ## cli 
 
