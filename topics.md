@@ -29,6 +29,7 @@
 - [golang](#golang)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
+- [instagram](#instagram)
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
@@ -195,6 +196,11 @@
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+
+## instagram 
+
+- [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
+- [megadose/toutatis](https://github.com/megadose/toutatis) - Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
 
 ## ios 
 
