@@ -42,6 +42,7 @@
 - [markdown](#markdown)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
+- [openai](#openai)
 - [operating-system](#operating-system)
 - [osint](#osint)
 - [others](#others)
@@ -272,6 +273,10 @@
 - [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [brailletouch/Brailletouch](https://github.com/brailletouch/Brailletouch) - This project seeks to develop a low-cost, open-source braille display. It is estimated that its cost is reduced to more than 90% compared to the cost of the cheapest screens that exist in the market t
+
+## openai 
+
+- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
 
 ## operating-system 
 
