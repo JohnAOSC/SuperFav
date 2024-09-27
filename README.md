@@ -93,6 +93,7 @@
 
 ## Others 
 
+- [joplin/web-app](https://github.com/joplin/web-app) - Joplin web app (beta)
 - [ossf/wg-vulnerability-disclosures](https://github.com/ossf/wg-vulnerability-disclosures) - The OpenSSF Vulnerability Disclosures Working Group seeks to help improve the overall security of the open source software ecosystem by helping mature and advocate well-managed vulnerability reporting
 - [fossasia/badgemagic.fossasia.org](https://github.com/fossasia/badgemagic.fossasia.org) - Badge Magic Documentation https://badgemagic.fossasia.org
 - [WinkoErades/Joplin-note-taking-templates](https://github.com/WinkoErades/Joplin-note-taking-templates) - Joplin note taking templates
