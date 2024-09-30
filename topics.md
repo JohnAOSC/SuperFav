@@ -295,6 +295,7 @@
 
 ## others 
 
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [ltb-project/self-service-password](https://github.com/ltb-project/self-service-password) - Web interface to change and reset password in an LDAP directory
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
