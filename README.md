@@ -38,6 +38,7 @@
 
 ## C 
 
+- [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - Transforming a Raspberry Pico into a FIDO Passkey
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
