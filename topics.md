@@ -141,7 +141,7 @@
 
 ## cryptography 
 
-- [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - Transforming a Raspberry Pico into a FIDO Passkey
+- [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
 
 ## csharp 
 
