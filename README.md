@@ -8,7 +8,6 @@
 - [Batchfile](#batchfile)
 - [Blade](#blade)
 - [C](#c)
-- [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [Dart](#dart)
@@ -43,12 +42,9 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
 
-## C# # 
-
-- [valentintintin/meshtastic-mqtt-explorer](https://github.com/valentintintin/meshtastic-mqtt-explorer) - Site pour explorer les paquets envoyés sur le réseau Meshtastic par le biais de MQTT
-
 ## C++ 
 
+- [PyottDesign/Statial-b](https://github.com/PyottDesign/Statial-b) - Adjustable Mouse
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
 - [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin) - Third-party native Jellyfin client for Nintendo Switch
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
@@ -73,6 +69,7 @@
 
 ## HTML 
 
+- [valentintintin/meshtastic-mqtt-explorer](https://github.com/valentintintin/meshtastic-mqtt-explorer) - Site pour explorer les paquets envoyés sur le réseau Meshtastic par le biais de MQTT
 - [Osama-Yusuf/jellyfin-uploader](https://github.com/Osama-Yusuf/jellyfin-uploader) - A simple, easy-to-use and self-hosted jellyfin media uploader straight to your jellyfin volume folders.
 - [aileftech/snap-admin](https://github.com/aileftech/snap-admin) - A plug-and-play, auto-generated CRUD database admin panel for Spring Boot apps
 
