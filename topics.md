@@ -399,6 +399,7 @@
 
 ## python 
 
+- [thonny/thonny](https://github.com/thonny/thonny) - Python IDE for beginners
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [fsociety-team/fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
 - [4ch1m/pixoo-rest](https://github.com/4ch1m/pixoo-rest) - A RESTful API to easily interact with the Wi-Fi enabled Divoom Pixoo devices.
