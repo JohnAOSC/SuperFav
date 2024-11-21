@@ -312,6 +312,7 @@
 
 ## others 
 
+- [Everything-Open-Source/open-source-events](https://github.com/Everything-Open-Source/open-source-events) - A list of Open Source conferences or events to look out for.
 - [PyottDesign/Statial-b](https://github.com/PyottDesign/Statial-b) - Adjustable Mouse
 - [meshtastic/python](https://github.com/meshtastic/python) - The Python CLI and API for talking to Meshtastic devices
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
