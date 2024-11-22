@@ -133,6 +133,7 @@
 
 ## Python 
 
+- [markqvist/Sideband](https://github.com/markqvist/Sideband) - LXMF client for Android, Linux and macOS allowing you to communicate with people or LXMF-compatible systems over Reticulum networks using LoRa, Packet Radio, WiFi, I2P, or anything else Reticulum supp
 - [thonny/thonny](https://github.com/thonny/thonny) - Python IDE for beginners
 - [meshtastic/python](https://github.com/meshtastic/python) - The Python CLI and API for talking to Meshtastic devices
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
