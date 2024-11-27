@@ -177,6 +177,7 @@
 
 ## Shell 
 
+- [aaaaadrien/toolbox-extra-tools](https://github.com/aaaaadrien/toolbox-extra-tools) - Extra tools for toolbox
 - [pi-hosted/pi-hosted](https://github.com/pi-hosted/pi-hosted) - Pi-Hosted is a collection of tutorials for hosting a variety of server applications using Docker and Portainer on the Raspberry Pi.
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 - [geeekpi/absminitowerkit](https://github.com/geeekpi/absminitowerkit) - ABS mini tower kit 's driver and installation script.
