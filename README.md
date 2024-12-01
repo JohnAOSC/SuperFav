@@ -38,6 +38,7 @@
 
 ## C 
 
+- [JohannBro/OpenWeatherMap-WIFI-KIT-32](https://github.com/JohannBro/OpenWeatherMap-WIFI-KIT-32) - API REST OWM on ESP32 with OLED Display (Heltec WIFI KIT 32)
 - [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
