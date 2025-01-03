@@ -365,7 +365,6 @@
 - [citelibre/RendezVous](https://github.com/citelibre/RendezVous) - This repository hosts all source code required to launch a full-featured local CiteLibre RendezVous application
 - [decidim/decidim](https://github.com/decidim/decidim) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
 - [FreshRSS/Extensions](https://github.com/FreshRSS/Extensions) - A repository containing all the official FreshRSS extensions
-- [loulax/rtfm](https://github.com/loulax/rtfm) - 
 - [sjl/t](https://github.com/sjl/t) - A command-line todo list manager for people that want to finish tasks, not organize them.  (git mirror)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [xynium/webfeed](https://github.com/xynium/webfeed) - rss and atom feed scanner gnome extension
