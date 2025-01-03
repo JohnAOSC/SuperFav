@@ -115,7 +115,6 @@
 - [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
 - [balthazar-space/Balthazar-concept](https://github.com/balthazar-space/Balthazar-concept) - an open hardware project
-- [loulax/rtfm](https://github.com/loulax/rtfm) - 
 - [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps) - Config files for my GitHub profile.
 
 ## PHP 
