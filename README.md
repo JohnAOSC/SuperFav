@@ -26,6 +26,7 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Vue](#vue)
 
 ## Batchfile 
 
@@ -45,6 +46,7 @@
 
 ## C++ 
 
+- [avast/retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [PyottDesign/Statial-b](https://github.com/PyottDesign/Statial-b) - Adjustable Mouse
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
 - [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin) - Third-party native Jellyfin client for PC/PS4/Nintendo Switch
@@ -130,6 +132,7 @@
 
 ## Python 
 
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
 - [Thunderbottom/PythonCSVtoXLSX](https://github.com/Thunderbottom/PythonCSVtoXLSX) - Python script to convert CSV to XLSX. Batch conversion supported through GUI.
 - [markqvist/Sideband](https://github.com/markqvist/Sideband) - LXMF client for Android, Linux and macOS allowing you to communicate with people or LXMF-compatible systems over Reticulum networks using LoRa, Packet Radio, WiFi, I2P, or anything else Reticulum supp
 - [thonny/thonny](https://github.com/thonny/thonny) - Python IDE for beginners
@@ -197,6 +200,10 @@
 ## Vim Script 
 
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
+
+## Vue 
+
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 
 ## License
