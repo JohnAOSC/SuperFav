@@ -333,6 +333,7 @@
 
 ## others 
 
+- [orrc/joplin-plugin-copy-public-url](https://github.com/orrc/joplin-plugin-copy-public-url) - Creates an HTTP URL to open a note in Joplin
 - [avast/retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL txt files that will work with the FIipperZero Music Player
 - [JohannBro/OpenWeatherMap-WIFI-KIT-32](https://github.com/JohannBro/OpenWeatherMap-WIFI-KIT-32) - API REST OWM on ESP32 with OLED Display (Heltec WIFI KIT 32)
