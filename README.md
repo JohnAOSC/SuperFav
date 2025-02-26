@@ -19,6 +19,7 @@
 - [Markdown](#markdown)
 - [Others](#others)
 - [PHP](#php)
+- [Perl](#perl)
 - [PostScript](#postscript)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -125,6 +126,10 @@
 - [ad-aures/castopod](https://github.com/ad-aures/castopod) - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [FreshRSS/Extensions](https://github.com/FreshRSS/Extensions) - A repository containing all the official FreshRSS extensions
+
+## Perl 
+
+- [dennykorsukewitz/VSCode-Znuny](https://github.com/dennykorsukewitz/VSCode-Znuny) - Znuny is an extension that helps you to make Znuny development easier, faster and more error-free.
 
 ## PostScript 
 
