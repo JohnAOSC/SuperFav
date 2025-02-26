@@ -333,6 +333,7 @@
 
 ## others 
 
+- [dennykorsukewitz/VSCode-Znuny](https://github.com/dennykorsukewitz/VSCode-Znuny) - Znuny is an extension that helps you to make Znuny development easier, faster and more error-free.
 - [orrc/joplin-plugin-copy-public-url](https://github.com/orrc/joplin-plugin-copy-public-url) - Creates an HTTP URL to open a note in Joplin
 - [avast/retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL txt files that will work with the FIipperZero Music Player
