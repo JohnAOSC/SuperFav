@@ -6,6 +6,7 @@
 ## Contents
 
 - [Batchfile](#batchfile)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -32,6 +33,10 @@
 ## Batchfile 
 
 - [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
+
+## Blade 
+
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
 
@@ -85,7 +90,6 @@
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - A full stack web application that combines many tools and services for security analysts into a single tool.
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [charliegerard/webusb-rtlsdr-aircraft-radar-system](https://github.com/charliegerard/webusb-rtlsdr-aircraft-radar-system) - Build an aircraft radar system using WebUSB and a RTL-SDR dongle to receive live data from airplanes 📡 ✈️
 - [citelibre/RendezVous](https://github.com/citelibre/RendezVous) - This repository hosts all source code required to launch a full-featured local CiteLibre RendezVous application
@@ -118,6 +122,7 @@
 
 ## PHP 
 
+- [nextcloud/xwiki](https://github.com/nextcloud/xwiki) - XWiki application for Nextcloud, which allows searching and displaying XWiki content from Nextcloud
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [jolicode/JoliNotif](https://github.com/jolicode/JoliNotif) - :computer: Send notifications to your desktop directly from your PHP script
 - [ltb-project/self-service-password](https://github.com/ltb-project/self-service-password) - Web interface to change and reset password in an LDAP directory
