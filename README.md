@@ -107,7 +107,7 @@
 ## Others 
 
 - [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL txt files that will work with the FIipperZero Music Player
-- [Everything-Open-Source/open-source-events](https://github.com/Everything-Open-Source/open-source-events) - A list of Open Source conferences or events to look out for.
+- [EverythingOpenSource/open-source-events](https://github.com/EverythingOpenSource/open-source-events) - A list of Open Source conferences or events to look out for.
 - [joplin/web-app](https://github.com/joplin/web-app) - Joplin web app (beta)
 - [ossf/wg-vulnerability-disclosures](https://github.com/ossf/wg-vulnerability-disclosures) - The OpenSSF Vulnerability Disclosures Working Group seeks to help improve the overall security of the open source software ecosystem by helping mature and advocate well-managed vulnerability reporting
 - [fossasia/badgemagic.fossasia.org](https://github.com/fossasia/badgemagic.fossasia.org) - Badge Magic Documentation https://badgemagic.fossasia.org
