@@ -80,6 +80,7 @@
 
 - [Osama-Yusuf/jellyfin-uploader](https://github.com/Osama-Yusuf/jellyfin-uploader) - A simple, easy-to-use and self-hosted jellyfin media uploader straight to your jellyfin volume folders.
 - [aileftech/snap-admin](https://github.com/aileftech/snap-admin) - A plug-and-play, auto-generated CRUD database admin panel for Spring Boot apps
+- [citelibre/RendezVous](https://github.com/citelibre/RendezVous) - This repository hosts all source code required to launch a full-featured local CiteLibre RendezVous application
 
 ## Java 
 
@@ -92,7 +93,6 @@
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [charliegerard/webusb-rtlsdr-aircraft-radar-system](https://github.com/charliegerard/webusb-rtlsdr-aircraft-radar-system) - Build an aircraft radar system using WebUSB and a RTL-SDR dongle to receive live data from airplanes 📡 ✈️
-- [citelibre/RendezVous](https://github.com/citelibre/RendezVous) - This repository hosts all source code required to launch a full-featured local CiteLibre RendezVous application
 - [xynium/webfeed](https://github.com/xynium/webfeed) - rss and atom feed scanner gnome extension
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
