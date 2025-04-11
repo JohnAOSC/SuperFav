@@ -21,6 +21,7 @@
 - [csharp](#csharp)
 - [cybersecurity](#cybersecurity)
 - [database](#database)
+- [development](#development)
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
@@ -163,6 +164,10 @@
 ## database 
 
 - [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
+
+## development 
+
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## devops 
 
