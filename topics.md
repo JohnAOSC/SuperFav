@@ -59,6 +59,7 @@
 - [php](#php)
 - [pixel-art](#pixel-art)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
@@ -368,7 +369,7 @@
 - [EverythingOpenSource/open-source-events](https://github.com/EverythingOpenSource/open-source-events) - A list of Open Source conferences or events to look out for.
 - [PyottDesign/Statial-b](https://github.com/PyottDesign/Statial-b) - Adjustable Mouse
 - [meshtastic/python](https://github.com/meshtastic/python) - The Python CLI and API for talking to Meshtastic devices
-- [meshtastic/firmware](https://github.com/meshtastic/firmware) - This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - A full stack web application that combines many tools and services for security analysts into a single tool.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
@@ -447,6 +448,13 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+
+## productivity 
+
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
+- [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## project-management 
 
