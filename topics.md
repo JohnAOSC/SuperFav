@@ -29,9 +29,11 @@
 - [documentation](#documentation)
 - [education](#education)
 - [electron](#electron)
+- [github](#github)
 - [github-config](#github-config)
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
+- [google](#google)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [information-gathering](#information-gathering)
@@ -46,6 +48,7 @@
 - [linux](#linux)
 - [macos](#macos)
 - [markdown](#markdown)
+- [mastodon](#mastodon)
 - [mobile](#mobile)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
@@ -210,6 +213,10 @@
 
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
+## github 
+
+- [hippiiee/Hippie-OSINT-Toolkit](https://github.com/hippiiee/Hippie-OSINT-Toolkit) - A web based OSINT ressource and tool
+
 ## github-config 
 
 - [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps) - Config files for my GitHub profile.
@@ -221,6 +228,10 @@
 ## good-first-issue 
 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+
+## google 
+
+- [hippiiee/Hippie-OSINT-Toolkit](https://github.com/hippiiee/Hippie-OSINT-Toolkit) - A web based OSINT ressource and tool
 
 ## hacking 
 
@@ -320,6 +331,10 @@
 
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 
+## mastodon 
+
+- [hippiiee/Hippie-OSINT-Toolkit](https://github.com/hippiiee/Hippie-OSINT-Toolkit) - A web based OSINT ressource and tool
+
 ## mobile 
 
 - [mecha-org/mechanix-gui](https://github.com/mecha-org/mechanix-gui) - Mono-repository for all Mechanix OS GUI components
@@ -352,6 +367,7 @@
 
 ## osint 
 
+- [hippiiee/Hippie-OSINT-Toolkit](https://github.com/hippiiee/Hippie-OSINT-Toolkit) - A web based OSINT ressource and tool
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [fsociety-team/fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
