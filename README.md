@@ -203,6 +203,7 @@
 
 ## TypeScript 
 
+- [hippiiee/Hippie-OSINT-Toolkit](https://github.com/hippiiee/Hippie-OSINT-Toolkit) - A web based OSINT ressource and tool
 - [xwiki-contrib/cristal](https://github.com/xwiki-contrib/cristal) - Cristal is a new project to build a new modular wiki UI using modern web technologies, which will support multiple backends (including of course XWiki to store Wiki data).
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [orrc/joplin-plugin-copy-public-url](https://github.com/orrc/joplin-plugin-copy-public-url) - Creates an HTTP URL to open a note in Joplin
