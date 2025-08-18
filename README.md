@@ -68,7 +68,7 @@
 
 ## Dart 
 
-- [go-vikunja/app](https://github.com/go-vikunja/app) - 
+- [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
 
 ## Go 
 
