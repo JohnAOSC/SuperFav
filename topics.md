@@ -29,6 +29,7 @@
 - [documentation](#documentation)
 - [education](#education)
 - [electron](#electron)
+- [flutter](#flutter)
 - [github](#github)
 - [github-config](#github-config)
 - [golang](#golang)
@@ -213,6 +214,10 @@
 ## electron 
 
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+
+## flutter 
+
+- [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
 
 ## github 
 
@@ -400,7 +405,6 @@
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [ossf/wg-vulnerability-disclosures](https://github.com/ossf/wg-vulnerability-disclosures) - The OpenSSF Vulnerability Disclosures Working Group seeks to help improve the overall security of the open source software ecosystem by helping mature and advocate well-managed vulnerability reporting
 - [flusio/Flus](https://github.com/flusio/Flus) - Collect, organise, comment on and share links from around the Web.
-- [go-vikunja/app](https://github.com/go-vikunja/app) - 
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [joplin/plugin-kanban](https://github.com/joplin/plugin-kanban) - It allows notes in a notebook to be organized in a kanban board.
 - [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - PoC to record audio from a Bluetooth device
