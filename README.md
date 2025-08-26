@@ -108,6 +108,7 @@
 
 ## Others 
 
+- [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps) - Config files for my GitHub profile.
 - [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL txt files that will work with the FIipperZero Music Player
 - [EverythingOpenSource/open-source-events](https://github.com/EverythingOpenSource/open-source-events) - A list of Open Source conferences or events to look out for.
 - [joplin/web-app](https://github.com/joplin/web-app) - Joplin web app (beta)
@@ -120,7 +121,6 @@
 - [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
 - [balthazar-space/Balthazar-concept](https://github.com/balthazar-space/Balthazar-concept) - an open hardware project
-- [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps) - Config files for my GitHub profile.
 
 ## PHP 
 
@@ -204,6 +204,7 @@
 
 ## TypeScript 
 
+- [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [hippiiee/Hippie-OSINT-Toolkit](https://github.com/hippiiee/Hippie-OSINT-Toolkit) - A web based OSINT ressource and tool
 - [xwiki-contrib/cristal](https://github.com/xwiki-contrib/cristal) - Cristal is a new project to build a new modular wiki UI using modern web technologies, which will support multiple backends (including of course XWiki to store Wiki data).
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
