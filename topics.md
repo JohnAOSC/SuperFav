@@ -412,7 +412,7 @@
 - [ltb-project/self-service-password](https://github.com/ltb-project/self-service-password) - Web interface to change and reset password in an LDAP directory
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [ossf/wg-vulnerability-disclosures](https://github.com/ossf/wg-vulnerability-disclosures) - The OpenSSF Vulnerability Disclosures Working Group seeks to help improve the overall security of the open source software ecosystem by helping mature and advocate well-managed vulnerability reporting
-- [flusio/Flus](https://github.com/flusio/Flus) - Collect, organise, comment on and share links from around the Web.
+- [flusio/Flus](https://github.com/flusio/Flus) - Collect, organise, annotate on and share links from around the Web.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [joplin/plugin-kanban](https://github.com/joplin/plugin-kanban) - It allows notes in a notebook to be organized in a kanban board.
 - [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - PoC to record audio from a Bluetooth device
