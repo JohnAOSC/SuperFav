@@ -45,6 +45,7 @@
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
+- [kali-linux](#kali-linux)
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
 - [learning](#learning)
@@ -313,6 +314,10 @@
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [charliegerard/webusb-rtlsdr-aircraft-radar-system](https://github.com/charliegerard/webusb-rtlsdr-aircraft-radar-system) - Build an aircraft radar system using WebUSB and a RTL-SDR dongle to receive live data from airplanes 📡 ✈️
 
+## kali-linux 
+
+- [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
+
 ## kubernetes 
 
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
@@ -410,6 +415,7 @@
 
 ## others 
 
+- [Dubascudes/DnD_Joplin](https://github.com/Dubascudes/DnD_Joplin) - A Joplin plugin for the creation and management of DnD 5e  Character Sheets
 - [josh0xA/darkdump](https://github.com/josh0xA/darkdump) - Open Source Intelligence Interface for Deep Web Scraping
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
 - [xwiki-contrib/cristal](https://github.com/xwiki-contrib/cristal) - Cristal is a new project to build a new modular wiki UI using modern web technologies, which will support multiple backends (including of course XWiki to store Wiki data).
