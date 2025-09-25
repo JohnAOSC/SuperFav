@@ -16,6 +16,7 @@
 - [c-plus-plus](#c-plus-plus)
 - [chrome](#chrome)
 - [cli](#cli)
+- [cloud](#cloud)
 - [config](#config)
 - [cpp](#cpp)
 - [cryptography](#cryptography)
@@ -157,6 +158,10 @@
 - [fsociety-team/fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+
+## cloud 
+
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 
 ## config 
 
