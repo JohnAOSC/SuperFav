@@ -289,7 +289,7 @@
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
-- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
+- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple self-hosted web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
@@ -411,14 +411,14 @@
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
-- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
+- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple self-hosted web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
 - [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [brailletouch/Brailletouch](https://github.com/brailletouch/Brailletouch) - This project seeks to develop a low-cost, open-source braille display. It is estimated that its cost is reduced to more than 90% compared to the cost of the cheapest screens that exist in the market t
 
 ## openai 
 
-- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
+- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple self-hosted web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
 
 ## operating-system 
 
@@ -568,7 +568,7 @@
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [haxsaw/hikaru](https://github.com/haxsaw/hikaru) - Move smoothly between Kubernetes YAML and Python for creating/updating/componentizing configurations.
-- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
+- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple self-hosted web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
 
 ## qt 
 
@@ -696,7 +696,7 @@
 
 ## website 
 
-- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
+- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple self-hosted web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
 
 ## windows 
 
