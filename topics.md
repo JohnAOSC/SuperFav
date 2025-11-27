@@ -17,6 +17,7 @@
 - [chrome](#chrome)
 - [cli](#cli)
 - [cloud](#cloud)
+- [command-line](#command-line)
 - [config](#config)
 - [cpp](#cpp)
 - [cryptography](#cryptography)
@@ -166,6 +167,10 @@
 ## cloud 
 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
+
+## command-line 
+
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## config 
 
