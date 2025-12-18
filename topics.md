@@ -102,6 +102,7 @@
 - [terminal](#terminal)
 - [termux](#termux)
 - [termux-hacking](#termux-hacking)
+- [tui](#tui)
 - [typescript](#typescript)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -707,6 +708,11 @@
 ## termux-hacking 
 
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
+
+## tui 
+
+- [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 
 ## typescript 
 
