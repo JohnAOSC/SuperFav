@@ -106,6 +106,7 @@
 - [termux-hacking](#termux-hacking)
 - [tui](#tui)
 - [typescript](#typescript)
+- [video](#video)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [webapp](#webapp)
@@ -729,6 +730,10 @@
 ## typescript 
 
 - [joplin/plugin-templates](https://github.com/joplin/plugin-templates) - Create templates in Joplin and use them to create new notes and todos.
+
+## video 
+
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 
 ## vue 
 
