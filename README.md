@@ -94,6 +94,7 @@
 
 ## JavaScript 
 
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [Dubascudes/DnD_Joplin](https://github.com/Dubascudes/DnD_Joplin) - A Joplin plugin for the creation and management of DnD 5e  Character Sheets
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
