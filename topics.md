@@ -148,13 +148,13 @@
 
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 
 ## awesome-list 
 
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 
 ## c-plus-plus 
 
