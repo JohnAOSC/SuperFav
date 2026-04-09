@@ -140,7 +140,7 @@
 
 ## Perl 
 
-- [dennykorsukewitz/VSCode-Znuny](https://github.com/dennykorsukewitz/VSCode-Znuny) - Znuny is an extension that helps you to make Znuny development easier, faster and more error-free.
+- [dennykorsukewitz/VSCode-Znuny](https://github.com/dennykorsukewitz/VSCode-Znuny) - Znuny VS Code tooling: Perl/Znuny snippets (static + POD-generated APIs), skin customizer, insert SOPM file list and @ObjectDependencies, Znuny status bar—faster, safer package and module work.
 
 ## PostScript 
 
