@@ -48,6 +48,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [gui](#gui)
+- [hack](#hack)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [https](#https)
@@ -320,6 +321,10 @@
 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
+
+## hack 
+
+- [jolicode/JoliNotif](https://github.com/jolicode/JoliNotif) - 🖥️ Send notifications to your desktop directly from your PHP script
 
 ## hacking 
 
