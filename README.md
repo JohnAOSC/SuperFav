@@ -209,13 +209,13 @@
 
 ## TypeScript 
 
-- [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
+- [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [hippiiee/Hippie-OSINT-Toolkit](https://github.com/hippiiee/Hippie-OSINT-Toolkit) - A web based OSINT ressource and tool
 - [xwiki-contrib/cristal](https://github.com/xwiki-contrib/cristal) - Cristal is a new project to build a new modular wiki UI using modern web technologies, which will support multiple backends (including of course XWiki to store Wiki data).
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [orrc/joplin-plugin-copy-public-url](https://github.com/orrc/joplin-plugin-copy-public-url) - Creates an HTTP URL to open a note in Joplin
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [joplin/plugin-templates](https://github.com/joplin/plugin-templates) - Create templates in Joplin and use them to create new notes and todos.
 - [joplin/plugin-kanban](https://github.com/joplin/plugin-kanban) - It allows notes in a notebook to be organized in a kanban board.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
@@ -228,7 +228,7 @@
 
 ## Vue 
 
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 
 ## License
