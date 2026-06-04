@@ -94,6 +94,7 @@
 - [Dubascudes/DnD_Joplin](https://github.com/Dubascudes/DnD_Joplin) - A Joplin plugin for the creation and management of DnD 5e  Character Sheets
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [charliegerard/webusb-rtlsdr-aircraft-radar-system](https://github.com/charliegerard/webusb-rtlsdr-aircraft-radar-system) - Build an aircraft radar system using WebUSB and a RTL-SDR dongle to receive live data from airplanes 📡 ✈️
@@ -216,7 +217,6 @@
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [joplin/plugin-templates](https://github.com/joplin/plugin-templates) - Create templates in Joplin and use them to create new notes and todos.
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [joplin/plugin-kanban](https://github.com/joplin/plugin-kanban) - It allows notes in a notebook to be organized in a kanban board.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [skymethod/op3](https://github.com/skymethod/op3) - OP3: The Open Podcast Prefix Project
