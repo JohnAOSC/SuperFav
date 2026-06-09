@@ -104,7 +104,6 @@
 - [software](#software)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
-- [sqlite](#sqlite)
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [termux](#termux)
@@ -346,7 +345,6 @@
 - [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple self-hosted web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
-- [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
@@ -678,6 +676,7 @@
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+- [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
 
 ## security 
 
@@ -729,10 +728,6 @@
 - [aileftech/snap-admin](https://github.com/aileftech/snap-admin) - A plug-and-play, auto-generated CRUD database admin panel for Spring Boot apps
 
 ## sql 
-
-- [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
-
-## sqlite 
 
 - [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
 
