@@ -53,7 +53,6 @@
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 - [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin) - Third-party native Jellyfin client for PC/PS4/PSVita/Nintendo Switch
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
-- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [brailletouch/Brailletouch](https://github.com/brailletouch/Brailletouch) - This project seeks to develop a low-cost, open-source braille display. It is estimated that its cost is reduced to more than 90% compared to the cost of the cheapest screens that exist in the market t
 
@@ -202,6 +201,7 @@
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 - [geeekpi/absminitowerkit](https://github.com/geeekpi/absminitowerkit) - ABS mini tower kit 's driver and installation script.
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [juanluisbaptiste/docker-otrs](https://github.com/juanluisbaptiste/docker-otrs) - The unofficial Znuny/OTRS Ticketing System docker image
