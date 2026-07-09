@@ -95,6 +95,7 @@
 - [reactjs](#reactjs)
 - [redteam](#redteam)
 - [reverse-engineering](#reverse-engineering)
+- [robotics](#robotics)
 - [rust](#rust)
 - [security](#security)
 - [security-tools](#security-tools)
@@ -674,6 +675,10 @@
 ## reverse-engineering 
 
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
+
+## robotics 
+
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 
 ## rust 
 
