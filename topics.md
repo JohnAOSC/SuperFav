@@ -618,7 +618,7 @@
 ## pwa 
 
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [joplin/web-app](https://github.com/joplin/web-app) - Joplin web app (beta)
+- [joplin/web-app](https://github.com/joplin/web-app) - Joplin web app
 
 ## python 
 
