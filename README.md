@@ -142,7 +142,7 @@
 
 ## PostScript 
 
-- [FOSDEM/website](https://github.com/FOSDEM/website) - FOSDEM website
+- [FOSDEM/website](https://github.com/FOSDEM/website) - Archive of the 2013-2025 FOSDEM website. Development for 2026 onward is at https://git.fosdem.org/FOSDEM/website
 
 ## Python 
 
