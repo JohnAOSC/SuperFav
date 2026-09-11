@@ -536,7 +536,7 @@
 - [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - PoC to record audio from a Bluetooth device
 - [fossasia/badgemagic.fossasia.org](https://github.com/fossasia/badgemagic.fossasia.org) - Badge Magic Documentation https://badgemagic.fossasia.org
 - [Vozec/CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) - This repository presents a proof-of-concept of CVE-2023-7028
-- [FOSDEM/website](https://github.com/FOSDEM/website) - FOSDEM website
+- [FOSDEM/website](https://github.com/FOSDEM/website) - Archive of the 2013-2025 FOSDEM website. Development for 2026 onward is at https://git.fosdem.org/FOSDEM/website
 - [skymethod/op3](https://github.com/skymethod/op3) - OP3: The Open Podcast Prefix Project
 - [AngelCrawford/joplin-theme](https://github.com/AngelCrawford/joplin-theme) - My private style for Joplin. It's build on top of the integrated "Dark" Theme included in Joplin. Inclusive a special Bullet Journal CSS style.
 - [WinkoErades/Joplin-note-taking-templates](https://github.com/WinkoErades/Joplin-note-taking-templates) - Joplin note taking templates
