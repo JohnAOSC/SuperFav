@@ -515,6 +515,8 @@
 
 ## others 
 
+- [ninxsoft/LowProfile](https://github.com/ninxsoft/LowProfile) - A Mac utility to help inspect Apple Configuration Profile payloads.
+- [ProfileCreator/ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS app to create standard or customized configuration profiles.
 - [Dubascudes/DnD_Joplin](https://github.com/Dubascudes/DnD_Joplin) - A Joplin plugin for the creation and management of DnD 5e  Character Sheets
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
 - [xwiki-contrib/cristal](https://github.com/xwiki-contrib/cristal) - Cristal is a new project to build a new modular wiki UI using modern web technologies, which will support multiple backends (including of course XWiki to store Wiki data).
