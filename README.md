@@ -111,6 +111,7 @@
 
 ## Others 
 
+- [Melanie12/awesome-devtools-EU](https://github.com/Melanie12/awesome-devtools-EU) - Curated list of developer-first tools made in Europe.
 - [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps) - Config files for my GitHub profile.
 - [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL txt files that will work with the FIipperZero Music Player
 - [EverythingOpenSource/open-source-events](https://github.com/EverythingOpenSource/open-source-events) - A list of Open Source conferences or events to look out for.
@@ -216,6 +217,7 @@
 
 ## TypeScript 
 
+- [Ralex91/Razzia](https://github.com/Ralex91/Razzia) - A self-hosted, open-source quiz platform for smaller events.
 - [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [hippiiee/Hippie-OSINT-Toolkit](https://github.com/hippiiee/Hippie-OSINT-Toolkit) - A web based OSINT ressource and tool
 - [xwiki-contrib/cristal](https://github.com/xwiki-contrib/cristal) - Cristal is a new project to build a new modular wiki UI using modern web technologies, which will support multiple backends (including of course XWiki to store Wiki data).
