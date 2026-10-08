@@ -45,6 +45,7 @@
 
 ## C# # 
 
+- [jellyfin/jellyfin-plugin-openlibrary](https://github.com/jellyfin/jellyfin-plugin-openlibrary) - Open Library metadata plugin for Jellyfin
 - [valentintintin/meshtastic-mqtt-explorer](https://github.com/valentintintin/meshtastic-mqtt-explorer) - Site pour explorer les paquets envoyés sur le réseau Meshtastic par le biais de MQTT
 
 ## C++ 
@@ -111,7 +112,7 @@
 
 ## Others 
 
-- [Melanie12/awesome-devtools-EU](https://github.com/Melanie12/awesome-devtools-EU) - Curated list of developer-first tools made in Europe.
+- [Meru-Meru-12/awesome-devtools-EU](https://github.com/Meru-Meru-12/awesome-devtools-EU) - Curated list of developer-first tools made in Europe.
 - [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps) - Config files for my GitHub profile.
 - [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL txt files that will work with the FIipperZero Music Player
 - [EverythingOpenSource/open-source-events](https://github.com/EverythingOpenSource/open-source-events) - A list of Open Source conferences or events to look out for.
@@ -149,6 +150,7 @@
 
 ## Python 
 
+- [HTurlet15/reachy_alive](https://github.com/HTurlet15/reachy_alive) - Giving life to the Reachy Mini robot from Pollen Robotics using a biologically-inspired software architecture.
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [josh0xA/darkdump](https://github.com/josh0xA/darkdump) - Open Source Intelligence Interface for Deep Web Scraping
 - [Thunderbottom/PythonCSVtoXLSX](https://github.com/Thunderbottom/PythonCSVtoXLSX) - Python script to convert CSV to XLSX. Batch conversion supported through GUI.
