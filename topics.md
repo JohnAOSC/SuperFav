@@ -516,7 +516,9 @@
 
 ## others 
 
-- [Melanie12/awesome-devtools-EU](https://github.com/Melanie12/awesome-devtools-EU) - Curated list of developer-first tools made in Europe.
+- [HTurlet15/reachy_alive](https://github.com/HTurlet15/reachy_alive) - Giving life to the Reachy Mini robot from Pollen Robotics using a biologically-inspired software architecture.
+- [jellyfin/jellyfin-plugin-openlibrary](https://github.com/jellyfin/jellyfin-plugin-openlibrary) - Open Library metadata plugin for Jellyfin
+- [Meru-Meru-12/awesome-devtools-EU](https://github.com/Meru-Meru-12/awesome-devtools-EU) - Curated list of developer-first tools made in Europe.
 - [ninxsoft/LowProfile](https://github.com/ninxsoft/LowProfile) - A Mac utility to help inspect Apple Configuration Profile payloads.
 - [ProfileCreator/ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS app to create standard or customized configuration profiles.
 - [Dubascudes/DnD_Joplin](https://github.com/Dubascudes/DnD_Joplin) - A Joplin plugin for the creation and management of DnD 5e  Character Sheets
