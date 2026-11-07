@@ -117,6 +117,7 @@
 - [tui](#tui)
 - [typescript](#typescript)
 - [video](#video)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [webapp](#webapp)
@@ -592,7 +593,6 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [xynium/webfeed](https://github.com/xynium/webfeed) - rss and atom feed scanner gnome extension
 - [common-voice/commonvoice-fr](https://github.com/common-voice/commonvoice-fr) - Tooling for producing French dataset for Common Voice
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [Nitrokey/pynitrokey](https://github.com/Nitrokey/pynitrokey) - Python client for Nitrokey devices
 
 ## p2p 
@@ -804,6 +804,10 @@
 ## video 
 
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
+
+## vscode 
+
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 
 ## vue 
 
