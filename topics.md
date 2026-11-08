@@ -70,6 +70,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microservices](#microservices)
 - [mobile](#mobile)
 - [monitoring](#monitoring)
@@ -469,6 +470,10 @@
 - [hippiiee/Hippie-OSINT-Toolkit](https://github.com/hippiiee/Hippie-OSINT-Toolkit) - A web based OSINT ressource and tool
 
 ## mcp 
+
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
+
+## mcp-server 
 
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 
