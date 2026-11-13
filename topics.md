@@ -40,6 +40,7 @@
 - [fastapi](#fastapi)
 - [finance](#finance)
 - [firefox](#firefox)
+- [flipperzero](#flipperzero)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [game](#game)
@@ -301,6 +302,10 @@
 
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
+## flipperzero 
+
+- [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL txt files that will work with the FIipperZero Music Player
+
 ## flutter 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -554,7 +559,6 @@
 - [dennykorsukewitz/VSCode-Znuny](https://github.com/dennykorsukewitz/VSCode-Znuny) - Znuny VS Code tooling: Perl/Znuny snippets (static + POD-generated APIs), skin customizer, insert SOPM file list and @ObjectDependencies, Znuny status bar—faster, safer package and module work.
 - [orrc/joplin-plugin-copy-public-url](https://github.com/orrc/joplin-plugin-copy-public-url) - Creates an HTTP URL to open a note in Joplin
 - [avast/retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
-- [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL txt files that will work with the FIipperZero Music Player
 - [JohannBro/OpenWeatherMap-WIFI-KIT-32](https://github.com/JohannBro/OpenWeatherMap-WIFI-KIT-32) - API REST OWM on ESP32 with OLED Display (Heltec WIFI KIT 32)
 - [Thunderbottom/PythonCSVtoXLSX](https://github.com/Thunderbottom/PythonCSVtoXLSX) - Python script to convert CSV to XLSX. Batch conversion supported through GUI.
 - [aaaaadrien/toolbox-extra-tools](https://github.com/aaaaadrien/toolbox-extra-tools) - Extra tools for toolbox
