@@ -65,7 +65,7 @@
 
 ## Dart 
 
-- [mecha-org/mechanix-gui](https://github.com/mecha-org/mechanix-gui) - Mono-repository for all Mechanix OS GUI components
+- [mecha-org/mechanix-gui](https://github.com/mecha-org/mechanix-gui) - ⚠️ [Archived] Mono-repository for all Mechanix OS GUI components
 - [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
 
 ## Go 
