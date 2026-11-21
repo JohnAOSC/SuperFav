@@ -446,7 +446,7 @@
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [mecha-org/mechanix-gui](https://github.com/mecha-org/mechanix-gui) - Mono-repository for all Mechanix OS GUI components
+- [mecha-org/mechanix-gui](https://github.com/mecha-org/mechanix-gui) - ⚠️ [Archived] Mono-repository for all Mechanix OS GUI components
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -488,7 +488,7 @@
 
 ## mobile 
 
-- [mecha-org/mechanix-gui](https://github.com/mecha-org/mechanix-gui) - Mono-repository for all Mechanix OS GUI components
+- [mecha-org/mechanix-gui](https://github.com/mecha-org/mechanix-gui) - ⚠️ [Archived] Mono-repository for all Mechanix OS GUI components
 
 ## monitoring 
 
@@ -721,7 +721,7 @@
 ## rust 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [mecha-org/mechanix-gui](https://github.com/mecha-org/mechanix-gui) - Mono-repository for all Mechanix OS GUI components
+- [mecha-org/mechanix-gui](https://github.com/mecha-org/mechanix-gui) - ⚠️ [Archived] Mono-repository for all Mechanix OS GUI components
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
