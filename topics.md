@@ -309,7 +309,7 @@
 ## flutter 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
+- [go-vikunja/app-legacy](https://github.com/go-vikunja/app-legacy) - 🚧 will be archived soon! New app: https://github.com/go-vikunja/app
 
 ## flutter-apps 
 
