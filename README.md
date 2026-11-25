@@ -66,7 +66,7 @@
 ## Dart 
 
 - [mecha-org/mechanix-gui](https://github.com/mecha-org/mechanix-gui) - ⚠️ [Archived] Mono-repository for all Mechanix OS GUI components
-- [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
+- [go-vikunja/app-legacy](https://github.com/go-vikunja/app-legacy) - 🚧 will be archived soon! New app: https://github.com/go-vikunja/app
 
 ## Go 
 
@@ -135,7 +135,7 @@
 - [jolicode/JoliNotif](https://github.com/jolicode/JoliNotif) - 🖥️ Send notifications to your desktop directly from your PHP script
 - [ltb-project/self-service-password](https://github.com/ltb-project/self-service-password) - Web interface to change and reset password in an LDAP directory
 - [flusio/Flus](https://github.com/flusio/Flus) - Collect, organise, annotate and share links from around the Web.
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [ad-aures/castopod](https://github.com/ad-aures/castopod) - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [FreshRSS/Extensions](https://github.com/FreshRSS/Extensions) - A repository containing all the official FreshRSS extensions
